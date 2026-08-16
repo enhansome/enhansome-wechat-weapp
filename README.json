@@ -28,7 +28,7 @@
             "last_commit": "2018-01-22T02:30:18Z",
             "owner": "xwartz",
             "repo": "wechat-app-demo",
-            "stars": 1780
+            "stars": 1779
           }
         },
         {
@@ -294,7 +294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:34:23.039Z",
+    "last_updated": "2026-08-16T22:33:30.277Z",
     "original_repository": "Aufree/awesome-wechat-weapp",
     "original_repository_sha": "dbeeab44a2631e53903b7cb4b613b338d8c8b2ea",
     "enhanced_repository": "enhansome/enhansome-wechat-weapp",
