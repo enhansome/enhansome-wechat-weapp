@@ -308,9 +308,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:06:51.243Z",
-    "original_repository": "Aufree/awesome-wechat-weapp",
-    "original_repository_id": 68965673,
+    "last_updated": "2026-08-27T12:10:05.857Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 68965673,
+      "language": "JavaScript",
+      "last_commit": "2018-11-15T13:30:10Z",
+      "owner": "Aufree",
+      "repo": "awesome-wechat-weapp",
+      "stars": 2939
+    },
     "original_repository_sha": "dbeeab44a2631e53903b7cb4b613b338d8c8b2ea",
     "enhanced_repository": "enhansome/enhansome-wechat-weapp",
     "enhanced_repository_description": null,
