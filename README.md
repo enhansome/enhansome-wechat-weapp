@@ -23,7 +23,7 @@
 * [TCP/IP 长连接服务,支持微信小程序 Websocket](https://github.com/leonguo/fans-server) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-28
 * [wxapp-todolist](https://github.com/zhaozhiming/wechat-todolist) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2022-06-14 - 微信小程序之练手小玩意儿——Todo List
 * [teamtoy-mina-demo](https://github.com/easychen/teamtoy-mina-demo) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-26 - 一个调用 TeamToy API 的微信小程序 Demo
-* [weapp-douban](https://github.com/zce/weapp-demo) ⭐ 8 | 🐛 1 | 📅 2023-11-01 -  豆瓣电影 微信小程序
+* [weapp-douban](https://github.com/zce/weapp-demo) ⭐ 9 | 🐛 1 | 📅 2023-11-01 -  豆瓣电影 微信小程序
 * [wxapp-cli](https://github.com/MeCKodo/wxapp-cli) - 微信小程序的脚手架
 
 ## 文档
@@ -99,4 +99,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
