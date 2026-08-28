@@ -15,8 +15,9 @@
             "last_commit": "2017-01-10T12:43:59Z",
             "owner": "gavinkwoe",
             "repo": "weapp-ide-crack",
-            "stars": 4272
-          }
+            "stars": 4271
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "xwartz",
             "repo": "wechat-app-demo",
             "stars": 1779
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "lypeer",
             "repo": "wechat-weapp-gank",
             "stars": 742
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "giscafer",
             "repo": "wechat-weapp-mapdemo",
             "stars": 610
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "jectychen",
             "repo": "wechat-v2ex",
             "stars": 565
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "liujians",
             "repo": "WeApp",
             "stars": 488
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "phodal",
             "repo": "weapp-quick",
             "stars": 472
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "Abbotton",
             "repo": "weapp-snippet-for-sublime-text-2-3",
             "stars": 452
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "myronliu347",
             "repo": "wechat-app-zhihudaily",
             "stars": 300
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "charleyw",
             "repo": "wechat-weapp-redux-todos",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "hijiangtao",
             "repo": "weapp-newsapp",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "hilongjw",
             "repo": "weapp-gold",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "gztchan",
             "repo": "wechat-mini-app",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "jeffche",
             "repo": "wechat-app-2048",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "sulihuang",
             "repo": "wechat-dribbble",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "aidenZou",
             "repo": "SmallApp",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "leonguo",
             "repo": "fans-server",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "zhaozhiming",
             "repo": "wechat-todolist",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "easychen",
             "repo": "teamtoy-mina-demo",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         },
         {
           "node_type": "item",
@@ -301,14 +320,15 @@
             "owner": "zce",
             "repo": "weapp-demo",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.100Z"
         }
       ],
       "title": "开源项目"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:10:05.857Z",
+    "last_updated": "2026-08-28T06:05:04.100Z",
     "original_repository_info": {
       "archived": false,
       "id": 68965673,
