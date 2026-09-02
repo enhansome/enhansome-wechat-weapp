@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "xwartz",
             "repo": "wechat-app-demo",
-            "stars": 1779,
+            "stars": 1778,
             "topics": [
               "wechat",
               "wechat-app"
@@ -286,7 +286,7 @@
             "open_issues": 6,
             "owner": "gztchan",
             "repo": "wechat-mini-app",
-            "stars": 154,
+            "stars": 153,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:04.100Z"
@@ -346,7 +346,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2016-09-25T10:35:00Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "aidenZou",
             "repo": "SmallApp",
             "stars": 85,
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:15:26.326Z",
+    "last_updated": "2026-09-02T00:04:41.424Z",
     "original_repository_info": {
       "archived": false,
       "description": null,

@@ -16,10 +16,10 @@
 * [wechat-weapp-redux-todos](https://github.com/charleyw/wechat-weapp-redux-todos) ⭐ 247 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-07 - 微信小程序集成Redux实现的Todo list
 * [微信小程序](https://github.com/hijiangtao/weapp-newsapp) ⭐ 205 | 🐛 1 | 🌐 JavaScript | 📅 2016-09-26 - 公众号热门文章信息流
 * [weapp-gold](https://github.com/hilongjw/weapp-gold) ⭐ 165 | 🐛 2 | 🌐 JavaScript | 📅 2016-09-23 - 掘金主页 微信小应用示例
-* [API](https://github.com/gztchan/wechat-mini-app/tree/master/page/API) ⭐ 154 | 🐛 6 | 🌐 JavaScript | 📅 2016-09-22 - API 文档
+* [API](https://github.com/gztchan/wechat-mini-app/tree/master/page/API) ⭐ 153 | 🐛 6 | 🌐 JavaScript | 📅 2016-09-22 - API 文档
 * [wxapp-2048](https://github.com/jeffche/wechat-app-2048) ⭐ 97 | 🐛 0 | 🌐 JavaScript | 📅 2019-09-06 - 微信小程序之2048小游戏
 * [wechat-dribbble](https://github.com/nicesu/wechat-dribbble) ⭐ 88 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-29 - 微信小程序-Dribbble
-* [SmallApp](https://github.com/aidenzou/SmallApp) ⭐ 85 | 🐛 2 | 🌐 JavaScript | 📅 2016-09-25 - 小 Demo，可参考
+* [SmallApp](https://github.com/aidenzou/SmallApp) ⭐ 85 | 🐛 1 | 🌐 JavaScript | 📅 2016-09-25 - 小 Demo，可参考
 * [TCP/IP 长连接服务,支持微信小程序 Websocket](https://github.com/leonguo/fans-server) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-28
 * [wxapp-todolist](https://github.com/zhaozhiming/wechat-todolist) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2022-06-14 - 微信小程序之练手小玩意儿——Todo List
 * [teamtoy-mina-demo](https://github.com/easychen/teamtoy-mina-demo) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-26 - 一个调用 TeamToy API 的微信小程序 Demo
@@ -99,4 +99,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
