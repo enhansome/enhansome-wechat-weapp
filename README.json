@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "gavinkwoe",
             "repo": "weapp-ide-crack",
-            "stars": 4271,
+            "stars": 4270,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:04.100Z"
@@ -346,7 +346,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2016-09-25T10:35:00Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "aidenZou",
             "repo": "SmallApp",
             "stars": 85,
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:04:41.424Z",
+    "last_updated": "2026-09-03T00:09:16.772Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
