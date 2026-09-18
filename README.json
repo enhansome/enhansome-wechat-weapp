@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "xwartz",
             "repo": "wechat-app-demo",
-            "stars": 1778,
+            "stars": 1779,
             "topics": [
               "wechat",
               "wechat-app"
@@ -85,7 +85,7 @@
             "open_issues": 5,
             "owner": "giscafer",
             "repo": "wechat-weapp-mapdemo",
-            "stars": 610,
+            "stars": 609,
             "topics": [
               "markers",
               "weapp",
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T00:25:07.982Z",
+    "last_updated": "2026-09-18T00:11:21.146Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
