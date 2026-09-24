@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "gavinkwoe",
             "repo": "weapp-ide-crack",
-            "stars": 4268,
+            "stars": 4269,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:04.100Z"
@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "xwartz",
             "repo": "wechat-app-demo",
-            "stars": 1779,
+            "stars": 1780,
             "topics": [
               "wechat",
               "wechat-app"
@@ -111,7 +111,7 @@
             "open_issues": 8,
             "owner": "jectychen",
             "repo": "wechat-v2ex",
-            "stars": 566,
+            "stars": 567,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:04.100Z"
@@ -219,7 +219,7 @@
             "open_issues": 16,
             "owner": "charleyw",
             "repo": "wechat-weapp-redux-todos",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "redux-devtools",
               "weapp",
@@ -286,7 +286,7 @@
             "open_issues": 6,
             "owner": "gztchan",
             "repo": "wechat-mini-app",
-            "stars": 153,
+            "stars": 154,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:04.100Z"
@@ -349,7 +349,7 @@
             "open_issues": 2,
             "owner": "aidenZou",
             "repo": "SmallApp",
-            "stars": 85,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:04.100Z"
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:24:52.556Z",
+    "last_updated": "2026-09-24T00:27:16.129Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
