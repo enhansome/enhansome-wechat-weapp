@@ -12,7 +12,7 @@
 * [WeApp](https://github.com/18380435477/WeApp) ⭐ 488 | 🐛 4 | 🌐 JavaScript | 📅 2018-03-13 - 微信小程序版的微信
 * [weapp-quick](https://github.com/phodal/weapp-quick) ⭐ 472 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-27 - 微信小应用示例代码
 * [weapp-snippet-for-sublime-text-2-3](https://github.com/Abbotton/weapp-snippet-for-sublime-text-2-3) ⚠️ Archived - sublime text 2&3 微信小程序 snippet
-* [wechat-app-zhihudaily](https://github.com/myronliu347/wechat-app-zhihudaily) ⭐ 300 | 🐛 8 | 🌐 JavaScript | 📅 2017-04-27 - 微信小程序版的知乎日报
+* [wechat-app-zhihudaily](https://github.com/myronliu347/wechat-app-zhihudaily) ⭐ 299 | 🐛 8 | 🌐 JavaScript | 📅 2017-04-27 - 微信小程序版的知乎日报
 * [wechat-weapp-redux-todos](https://github.com/charleyw/wechat-weapp-redux-todos) ⭐ 248 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-07 - 微信小程序集成Redux实现的Todo list
 * [微信小程序](https://github.com/hijiangtao/weapp-newsapp) ⭐ 205 | 🐛 1 | 🌐 JavaScript | 📅 2016-09-26 - 公众号热门文章信息流
 * [weapp-gold](https://github.com/hilongjw/weapp-gold) ⭐ 164 | 🐛 2 | 🌐 JavaScript | 📅 2016-09-23 - 掘金主页 微信小应用示例
@@ -99,4 +99,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
