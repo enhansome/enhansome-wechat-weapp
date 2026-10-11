@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "gavinkwoe",
             "repo": "weapp-ide-crack",
-            "stars": 4269,
+            "stars": 4267,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:04.100Z"
@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "xwartz",
             "repo": "wechat-app-demo",
-            "stars": 1779,
+            "stars": 1778,
             "topics": [
               "wechat",
               "wechat-app"
@@ -85,7 +85,7 @@
             "open_issues": 5,
             "owner": "giscafer",
             "repo": "wechat-weapp-mapdemo",
-            "stars": 610,
+            "stars": 611,
             "topics": [
               "markers",
               "weapp",
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:43:33.875Z",
+    "last_updated": "2026-10-11T00:56:14.724Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
