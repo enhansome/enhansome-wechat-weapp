@@ -9,7 +9,7 @@
 * [wechat-weapp-gank](https://github.com/lypeer/wechat-weapp-gank) ⭐ 741 | 🐛 7 | 🌐 JavaScript | 📅 2016-10-28 - 微信小程序版Gank客户端
 * [微信小程序开发 DEMO - 地图定位](https://github.com/giscafer/wechat-weapp-mapdemo) ⭐ 610 | 🐛 5 | 🌐 JavaScript | 📅 2021-08-15
 * [微信小程序-v2ex](https://github.com/jectychen/wechat-v2ex/) ⭐ 568 | 🐛 8 | 🌐 JavaScript | 📅 2020-09-18 - 微信小程序版的v2ex
-* [WeApp](https://github.com/18380435477/WeApp) ⭐ 488 | 🐛 4 | 🌐 JavaScript | 📅 2018-03-13 - 微信小程序版的微信
+* [WeApp](https://github.com/18380435477/WeApp) ⭐ 489 | 🐛 4 | 🌐 JavaScript | 📅 2018-03-13 - 微信小程序版的微信
 * [weapp-quick](https://github.com/phodal/weapp-quick) ⭐ 472 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-27 - 微信小应用示例代码
 * [weapp-snippet-for-sublime-text-2-3](https://github.com/Abbotton/weapp-snippet-for-sublime-text-2-3) ⚠️ Archived - sublime text 2&3 微信小程序 snippet
 * [wechat-app-zhihudaily](https://github.com/myronliu347/wechat-app-zhihudaily) ⭐ 299 | 🐛 8 | 🌐 JavaScript | 📅 2017-04-27 - 微信小程序版的知乎日报
@@ -99,4 +99,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
