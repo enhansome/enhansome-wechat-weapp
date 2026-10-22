@@ -40,7 +40,7 @@
 ## 教程
 
 * [微信小程序开发文档](http://wxopen.notedown.cn/)
-* [微信公众平台 API 文档 - GitHub](https://github.com/Notedown-cn/wxopen) ⭐ 505 | 🐛 3 | 🌐 HTML | 📅 2018-10-01
+* [微信公众平台 API 文档 - GitHub](https://github.com/Notedown-cn/wxopen) ⭐ 504 | 🐛 3 | 🌐 HTML | 📅 2018-10-01
 * [微信小程序怎么开发？玩物志用一个上午上线了电商应用 | 爱范儿](http://www.ifanr.com/721124)
 * [首个微信小程序开发教程！](http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7)
 * [抢先看：微信官方发布的微信应用号（小程序）设计规范](http://www.woshipm.com/ucd/418190.html)
@@ -99,4 +99,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
